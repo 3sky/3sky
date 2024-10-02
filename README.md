@@ -1,14 +1,14 @@
 # Hi there 👋
 
 - 👯 I’m currently working for [Red Hat](https://www.redhat.com/en) as Cloud Consultant.
-- 😄 However, I'm AWS Community Builder, and owner of [this awesoem company](https://3sky.dev/)
+- 😄 However, I'm AWS Community Builder, and owner of [this awesome company](https://3sky.dev/)
 - 💬 Ask me about: Automation, IaC, AWS
 - 📫 How to reach me:
     - email: keen.sand8462@fastmail.com
 - ⚡ Fun fact:
-    1. I have a [blog](https://blog.3sky.dev/)
-    2. I'm self-hosting a few things, for example: [Mealie](https://przepisy.jakubwolynko.eus)
-    3. My fav yo-yo trick is [Yuuki Slack](https://www.youtube.com/watch?v=r6G5HfK2Ucg), and yes I can do it!
+    - I have a [blog](https://blog.3sky.dev/)
+    - I'm self-hosting a few things, for example: [Mealie](https://przepisy.jakubwolynko.eus)
+    - My fav yo-yo trick is [Yuuki Slack](https://www.youtube.com/watch?v=r6G5HfK2Ucg), and yes I can do it!
 
 ## Work experiance
 
