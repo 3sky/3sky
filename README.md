@@ -10,7 +10,7 @@
     - I'm self-hosting a few things, for example: [Mealie](https://przepisy.jakubwolynko.eus)
     - My fav yo-yo trick is [Yuuki Slack](https://www.youtube.com/watch?v=r6G5HfK2Ucg), and yes I can do it!
 
-## Work experiance
+## Work experience
 
 ### Cloud Consultant, Red Hat
 
