@@ -9,6 +9,9 @@
     - I have a [blog](https://blog.3sky.dev/)
     - I'm self-hosting a few things, for example: [Mealie](https://przepisy.jakubwolynko.eus)
     - My fav yo-yo trick is [Yuuki Slack](https://www.youtube.com/watch?v=r6G5HfK2Ucg), and yes I can do it!
+- A few public talks on YouTube:
+    - [Zapomnij o bezpośrednim dostępie po SSH! Bastion host, AWS SSM i EC2 Connect | PL](https://www.youtube.com/watch?v=zlPepowMBTc)
+    - [Optimizing Video Localization with ML and AWS Batch | ENG ](https://www.youtube.com/watch?v=WGiTTV6gDbc)
 
 ## Work experience
 
