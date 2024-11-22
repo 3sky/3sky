@@ -10,7 +10,8 @@
     - I'm self-hosting a few things, for example: [Mealie](https://przepisy.jakubwolynko.eus)
     - My fav yo-yo trick is [Yuuki Slack](https://www.youtube.com/watch?v=r6G5HfK2Ucg), and yes I can do it!
 - A few public talks on YouTube:
-    - [Zapomnij o bezpośrednim dostępie po SSH! Bastion host, AWS SSM i EC2 Connect | PL](https://www.youtube.com/watch?v=zlPepowMBTc)
+    - [Secure Access to EC2 (for Developers) | ENG ](https://www.youtube.com/live/XUO2VUCAAJs?si=tK8-aQEp6hQDNnvG&t=610)
+    - [Zapomnij o bezpośrednim dostępie po SSH! Bastion host, AWS SSM i EC2 Connect | PL ](https://www.youtube.com/watch?v=zlPepowMBTc)
     - [Optimizing Video Localization with ML and AWS Batch | ENG ](https://www.youtube.com/watch?v=WGiTTV6gDbc)
 
 ## Work experience
