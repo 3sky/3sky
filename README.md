@@ -4,10 +4,10 @@
 - 😄 However, I'm AWS Community Builder, and owner of [this awesome company](https://3sky.dev/)
 - 💬 Ask me about: Automation, IaC, AWS
 - 📫 How to reach me:
-    - email: keen.sand8462@fastmail.com
+    - email: hello+github@jakubwolynko.eu
 - ⚡ Fun fact:
-    - I have a [blog](https://blog.3sky.dev/)
-    - I'm self-hosting a few things, for example: [Mealie](https://przepisy.jakubwolynko.eus)
+    - I have a [blog](https://jakubwolynko.eu)
+    - I'm self-hosting a few things, but nothing is public currently ;) 
     - My fav yo-yo trick is [Yuuki Slack](https://www.youtube.com/watch?v=r6G5HfK2Ucg), and yes I can do it!
 - A few public talks on YouTube:
     - [Secure Access to EC2 (for Developers) | ENG ](https://www.youtube.com/live/XUO2VUCAAJs?si=tK8-aQEp6hQDNnvG&t=610)
